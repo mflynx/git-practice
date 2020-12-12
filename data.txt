@@ -1,3 +1,4 @@
 Hello world !
 Name : lynx
 Occupation : eat, drink, code, sleep :)
+Editing file from GitHub
